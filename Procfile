@@ -1,2 +1,2 @@
 worker: python setup.py
-web: python setup.py runserver
+worker: python setup.py runserver
